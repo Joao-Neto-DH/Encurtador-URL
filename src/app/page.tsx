@@ -16,7 +16,11 @@ export default function Home() {
       {/* footer */}
       <p className="self-center py-4">
         Feito por{" "}
-        <a href="" className="text-blue-600 underline">
+        <a
+          href="https://github.com/Joao-Neto-DH"
+          target="_blank"
+          className="text-blue-600 underline"
+        >
           João Neto
         </a>{" "}
         / 2024
