@@ -23,4 +23,4 @@ bun dev
 
 - Abra [http://localhost:3000](http://localhost:3000) no seu navegador e visualize o projecto
 
-Também pode ver o projecto online a partir do link [https://encurtador-url.vercel.app](https://encurtador-url.vercel.app)
+Também pode ver o projecto online a partir do link [https://encurtador-url-alpha.vercel.app](https://encurtador-url-alpha.vercel.app)
